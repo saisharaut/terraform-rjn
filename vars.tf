@@ -1,3 +1,3 @@
 variable "tag_name" {
-    default = "myec2"
+    default = "myec2-user19"
 }
